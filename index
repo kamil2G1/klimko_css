@@ -1,0 +1,65 @@
+<html>
+<title>Zadania CSS</title>
+<head>
+    <META HTTP-EQUIV="content-type" CONTENT="text/html; CHARSET=iso-8859-2">
+</head>
+
+<body bgcolor="green">
+    
+    <table width=95% border="1" align="center" bgcolor="yellow">
+        <tr>
+            <td width=18% align=center >
+                <marquee bgcolor="Green">Kamil Klimko</marquee><br/>
+                <marquee bgcolor="Purple">Linki do zadań</marquee><br/>
+                <a href="zadanie2.html" target="strony">Zadanie 2</a><br/>
+                <a href="zadanie3.html" target="strony">Zadanie 3</a><br/>
+                <a href="zadanie4.html" target="strony">Zadanie 4</a><br/>
+                <a href="km_z5_1.html" target="strony">Z5-importowany</a><br/>
+                <a href="km_z5_2.html" target="strony">Z5-zewnetrzny</a><br/>
+                <a href="km_z5_3.html" target="strony">Z5_wewnetrzny</a><br/>
+                <a href="km_z5_4.html" target="strony">Z5_liniowy</a><br/>
+                <a href="km_z6.html" target="strony">Z6</a><br/>
+                <a href="km_z7.html" target="strony">Z7</a><br/>
+                <a href="km_z8.html" target="strony">Z8</a><br/>
+                <a href="km_z9.html" target="strony">Z9</a><br/>
+                <a href="km_z10.html" target="strony">Z10</a><br/>
+                <a href="km_z11.html" target="strony">Z11</a><br/>
+                <a href="km_z12.html" target="strony">Z12</a><br/>
+                <a href="km_z13.html" target="strony">Z13</a><br/>
+                <a href="km_z14.html" target="strony">Z14</a><br/>
+                <a href="km_z15.html" target="strony">Z15</a><br/>
+                <a href="km_z16.html" target="strony">Z16</a><br/>
+                <a href="km_z17_p1.html" target="strony">Z17_p1</a><br/>
+                <a href="km_z17_p2.html" target="strony">Z17_p2</a><br/>
+                <a href="km_z18.html" target="strony">Z18</a><br/>
+                <a href="km_z19.html" target="strony">Z19</a><br/>
+                <a href="km_z20.html" target="strony">Z20</a><br/>
+                <a href="km_z21.html" target="strony">Z21</a><br/>
+                <a href="km_z22.html" target="strony">Z22</a><br/>
+                <a href="km_z23.html" target="strony">Z23</a><br/>
+               
+            </td>
+            <td align=center><iframe width=700 height=700 name="strony" src="" border="0"></iframe>
+            </td>
+            <td width=18% align=center >
+                <marquee bgcolor="white">Kamil Klimko</marquee><br/>
+                <marquee bgcolor="green">Linki do kodów zadań</marquee><br/>
+                <a href="Z5_kod-importowany.html" target="strony">Z5_kod-importowany</a><br/>
+                <a href="Z5_kod-zewnętrzny.html" target="strony">Z5_kod-zewnętrzny</a><br/>
+                <a href="Z5_kod-wewnętrzna.html" target="strony">Z5_kod-wewnętrzna</a><br/>
+                <a href="Z5_kod-liniowy.html" target="strony">Z5_kod-liniowy</a><br/>
+                <a href="Z6_kod.html" target="strony">Z6_kod</a><br/>
+                <a href="Z13_kod.html" target="strony">Z13_kod</a><br/>
+                <a href="z15_kod.html" target="strony">Z15_kod</a><br/>
+                <a href="Z17_p1_kod.html" target="strony">Z17_P1_kod</a><br/>
+                <a href="Z17_p2_kod.html" target="strony">Z17_P2_kod</a><br/>
+                <a href="Z18_kod.html" target="strony">Z18_kod</a><br/>
+                <a href="Z22_kod.html" target="strony">Z22_kod</a><br/>
+                <a href="Z23_kod.html" target="strony">Z23_kod</a><br/>
+                
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
